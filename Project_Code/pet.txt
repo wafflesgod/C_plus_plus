@@ -1,0 +1,9 @@
+1,1000,Meow,Cat,3,F
+2,1000,Woof,Dog,4,M
+3,1000,Orange,Cat,2,F
+5,1000,Rose,Cat,2,F
+6,1000,idk,bird,1,f
+7,1000,for,monkey,2,F
+8,1001,woof,dog,2,f
+9,1001,yes,fish,1,f
+
